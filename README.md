@@ -1,12 +1,12 @@
-Below is a clean and professional **README.md** file for your **Music Recommender** project based on the structure shown in your screenshot. You can copy and paste this directly into your project.
-
----
+Here’s your updated **README.md** with the **clone instructions** added and the deployed link included:
 
 ```markdown
 # 🎵 Music Recommendation System
 
 A web-based Music Recommendation System that suggests similar songs based on user input.  
 This project is built using **React.js** for the frontend and **Flask (Python)** for the backend.
+
+Deployed live: [https://musicrecommender123.netlify.app/](https://musicrecommender123.netlify.app/)
 
 ---
 
@@ -29,7 +29,7 @@ This project is built using **React.js** for the frontend and **Flask (Python)**
 | Backend     | Flask (Python)   |
 | Dataset     | CSV (Songs dataset) |
 | ML Logic    | Cosine Similarity |
-| Deployment  | Render / Vercel (optional) |
+| Deployment  | Render / Vercel / Netlify |
 
 ---
 
@@ -55,6 +55,19 @@ music_recommender/
 
 ---
 
+## 📥 Clone Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/hariram130303/music-recommender.git
+cd music-recommender
+````
+
+After cloning, follow the backend and frontend setup steps below.
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Backend Setup (Flask)
@@ -63,7 +76,7 @@ music_recommender/
 cd backend
 pip install -r requirements.txt
 python app.py
-````
+```
 
 The backend will run at:
 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
@@ -133,8 +146,3 @@ This project is licensed under the **MIT License**.
 Developed by **Hari Ram**
 🔗 GitHub: [https://github.com/hariram130303](https://github.com/hariram130303)
 🔗 LinkedIn: [https://linkedin.com/in/hari-ram-thogata-madam](https://linkedin.com/in/hari-ram-thogata-madam)
-
----
-
-```
-
