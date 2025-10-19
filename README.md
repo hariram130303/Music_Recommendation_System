@@ -1,6 +1,3 @@
-Here’s your updated **README.md** with the **clone instructions** added and the deployed link included:
-
-```markdown
 # 🎵 Music Recommendation System
 
 A web-based Music Recommendation System that suggests similar songs based on user input.  
